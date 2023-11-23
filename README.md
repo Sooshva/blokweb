@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Sosan Shirzai (vervangen door jouw naam)
 
   #### Je startniveau:
-  blauw (kies uit zwart, rood óf blauw)
+  Blauw (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  responsive plane (kies uit responsive óf surface plane)
+  responsive (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://www.dunkin.nl/)
+  https://www.dunkin.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepage Dunkin
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  homepage Dunkin
+  <img src="images/DD-Homepage.jpeg" width="375px" alt="Mobiele screenshot van algemene Dunkin' Donuts Homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/DD-Blog.jpeg" width="375px" alt="Mobiele screenshot van Dunkin' Donuts Blogpagina">
  
 </details>
 
@@ -94,11 +94,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Fouzia           | Nathalie           | Pepijn       | Chama            |
+  | ---              | ---                | ---          | ---              |
+  | dit bespreken    | Stap 9 en 10       | en ik dit    | en dan ik dat    |
+  | en dat ook nog   | van Hamburger-menu | nog een punt | dit wil ik zeker |
+  | toegankelijkheid | Html-structuur     |-             | -                |
+  |en slideshow      | laten checken      | ...          | ...              |
 
 
   ### Verslag van meeting
