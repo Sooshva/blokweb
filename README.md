@@ -96,8 +96,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Fouzia           | Nathalie           | Pepijn       | Chama            |
   | ---              | ---                | ---          | ---              |
-  | dit bespreken    | Stap 9 en 10       | en ik dit    | en dan ik dat    |
-  | en dat ook nog   | van Hamburger-menu | nog een punt | dit wil ik zeker |
+  |     | Stap 9 en 10       | en ik dit    | en dan ik dat    |
+  |    | van Hamburger-menu | nog een punt | dit wil ik zeker |
   | toegankelijkheid | Html-structuur     |-             | -                |
   |en slideshow      | laten checken      | ...          | ...              |
 
